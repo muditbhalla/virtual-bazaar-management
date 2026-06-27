@@ -28,7 +28,7 @@ virtual-bazaar-management/
 ```
 # Setup & Local Execution
 
-##Prerequisites
+## Prerequisites
 Python 3.8 or higher installed on your host system environment.
 
 Run the Application
@@ -36,10 +36,10 @@ Clone this repository locally.
 
 Navigate into the root folder using your terminal window:
 
-##Bash
+## Bash
 cd virtual-bazaar-management
 Run the engine wrapper file:
 
-##Bash
+## Bash
 python src/main.py
 
