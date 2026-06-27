@@ -25,7 +25,7 @@ virtual-bazaar-management/
 └── src/
     └── main.py       # Core application engine containing computational logic
 
-
+```
 # Setup & Local Execution
 
 ##Prerequisites
