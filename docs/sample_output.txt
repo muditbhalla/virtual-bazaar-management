@@ -1,0 +1,137 @@
+Welcome to Virtual Bazaar Management Software (VBMS)
+
+Please enter your 6-Digit numeric Employee ID: 1233456
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 1
+
+Oh JOLLY! Here to add another product!
+Please fill in the details below:
+Enter Product ID: 8978
+Enter Product Name: veg
+
+Select the currency for the product price:
+1) Indian Rupee (₹)
+2) US Dollar ($)
+3) Euro (€)
+4) UAE Dirham (د.إ)
+Enter the number corresponding to the currency: 1
+Enter Product Price (₹): 1009
+Enter Product Quantity: 10
+
+Product added successfully!
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 4
+
+Complete Inventory:
+----------------------------------------
+PRODUCT NUMBER 1
+Product ID:          8978
+Product Name:        veg
+Product Price:       ₹1009.00
+Product Quantity:    10
+----------------------------------------
+
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 1
+
+Oh JOLLY! Here to add another product!
+Please fill in the details below:
+Enter Product ID: 0898
+Enter Product Name: non-veg
+
+Select the currency for the product price:
+1) Indian Rupee (₹)
+2) US Dollar ($)
+3) Euro (€)
+4) UAE Dirham (د.إ)
+Enter the number corresponding to the currency: 2
+Enter Product Price ($): 100
+Enter Product Quantity: 1
+
+Product added successfully!
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 5
+
+Would you like to delete a selective product or the complete inventory?
+1) Selective Deletion
+2) Complete Deletion
+Enter your choice (1 or 2): 1
+Enter the Product ID of the item you want to delete: 0898
+Product deleted successfully!
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 4
+
+Complete Inventory:
+----------------------------------------
+PRODUCT NUMBER 1
+Product ID:          8978
+Product Name:        veg
+Product Price:       ₹1009.00
+Product Quantity:    10
+----------------------------------------
+
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 5
+
+Would you like to delete a selective product or the complete inventory?
+1) Selective Deletion
+2) Complete Deletion
+Enter your choice (1 or 2): 2
+Are you sure you want to delete the entire inventory? (yes/no): yes
+All products have been deleted from the inventory.
+
+
+1) Add Product
+2) Update Product
+3) Display Selective Record
+4) Display Complete Record
+5) Delete Product
+6) Exit
+Enter your choice from the above: 6
+
+BYE
+See You Soon!
+
+You added 2 products today.
+

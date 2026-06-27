@@ -1,0 +1,14 @@
+# === Python Caches ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Environment & Databases ===
+# Ignore localized runtime databases to prevent git history pollution
+src/*.dat
+*.dat
+
+# === Operating System Trash ===
+.DS_Store
+Thumbs.db
